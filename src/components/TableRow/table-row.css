@@ -1,0 +1,8 @@
+.table-row__cell {
+    display: flex;
+    flex-direction: column;
+}
+
+.table-row__cell--email {
+    text-transform: lowercase;
+}

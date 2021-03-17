@@ -1,0 +1,11 @@
+@import './components/Pagination/pagination.css';
+@import './components/TableRow/table-row.css';
+
+.mt-3 {
+  margin-top: 2rem;
+}
+
+.mr-1 {
+  margin-right: .5rem;
+}
+

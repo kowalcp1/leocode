@@ -1,0 +1,1 @@
+export const SetDataTable = "SET_DATA_TABLE";

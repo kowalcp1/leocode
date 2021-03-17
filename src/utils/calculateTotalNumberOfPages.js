@@ -1,0 +1,1 @@
+export const calculateTotalNumberOfPages = (rows, rowsPerPage) => rowsPerPage !== 0 ? Math.ceil(rows.length / rowsPerPage) : 0;
